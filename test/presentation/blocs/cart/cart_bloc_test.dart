@@ -1,3 +1,5 @@
+// ignore_for_file: void_checks
+
 import 'package:bloc_test/bloc_test.dart';
 import 'package:dartz/dartz.dart';
 import 'package:eshop/core/error/failures.dart';

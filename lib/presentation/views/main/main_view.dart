@@ -9,7 +9,7 @@ import 'home/home_view.dart';
 import 'other/other_view.dart';
 
 class MainView extends StatefulWidget {
-  const MainView({Key? key}) : super(key: key);
+  const MainView({super.key});
 
   @override
   State<MainView> createState() => _MainViewState();

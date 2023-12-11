@@ -11,7 +11,7 @@ import '../../../blocs/user/user_bloc.dart';
 import '../../../widgets/other_item_card.dart';
 
 class OtherView extends StatelessWidget {
-  const OtherView({Key? key}) : super(key: key);
+  const OtherView({super.key});
 
   @override
   Widget build(BuildContext context) {

@@ -15,6 +15,7 @@ import '../../../widgets/input_form_button.dart';
 import '../../../widgets/product_card.dart';
 
 class HomeView extends StatefulWidget {
+  // ignore: use_super_parameters
   const HomeView({Key? key}) : super(key: key);
 
   @override
@@ -110,7 +111,7 @@ class _HomeViewState extends State<HomeView> {
                               fontWeight: FontWeight.bold, fontSize: 36),
                         ),
                         Text(
-                          "E-Shop mobile store",
+                          "E-plastic Waste",
                           style: TextStyle(
                               fontWeight: FontWeight.normal, fontSize: 22),
                         ),

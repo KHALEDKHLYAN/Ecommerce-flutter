@@ -1,3 +1,5 @@
+// ignore_for_file: use_super_parameters
+
 import 'dart:convert';
 
 import '../../../domain/entities/order/order_details.dart';

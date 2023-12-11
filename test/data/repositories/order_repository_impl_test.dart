@@ -1,3 +1,5 @@
+// ignore_for_file: unused_import
+
 import 'package:dartz/dartz.dart';
 import 'package:eshop/core/error/failures.dart';
 import 'package:eshop/core/network/network_info.dart';
